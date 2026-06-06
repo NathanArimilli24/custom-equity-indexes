@@ -1,0 +1,7 @@
+series,type,total_return_pct,annualized_return_pct
+Equal_Weight,custom_index,438.3,7.0
+Value_Weight,custom_index,504.6,7.5
+Price_Weight,custom_index,1311.9,11.2
+SPY,etf_benchmark,569.4,
+DIA,etf_benchmark,619.4,
+QQQ,etf_benchmark,462.0,
