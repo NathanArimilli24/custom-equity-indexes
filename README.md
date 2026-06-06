@@ -87,7 +87,7 @@ pip install wrds pandas numpy matplotlib seaborn tqdm
 
 ## Caveats and honest notes
 
-- **Not re-run for this portfolio version.** The headline numbers come from the team's original run.
+- **Not re-run for this portfolio version.** The headline numbers come from our team's original run.
   They are internally consistent (annualized figures reconcile with totals) and the correlation
   matrix matches the saved exhibit exactly, but reproducing them requires WRDS/CRSP access, which is
   not public.
